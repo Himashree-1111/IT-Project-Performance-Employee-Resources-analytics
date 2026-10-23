@@ -73,3 +73,16 @@ The dashboard provides a visual overview of IT project performance and employee 
 
 ![IT Project Performance and Employee Resource Analytics Dashboard](Project%20dashboard.jpeg)
 
+Key Insights
+
+Based on the IT Project Performance and Employee Resource Analytics dashboard, the following results were observed:
+
+- Workforce: The dashboard reports 250 employees across five departments, with IT having the largest workforce at 80 employees.
+- Project Portfolio: The dashboard reports 250 total projects. The displayed project status distribution is 40% completed, 25% in progress, 20% on hold, and 15% cancelled.
+- Revenue and Budget: Total revenue is reported as ₹2.015 billion, compared with a total budget of ₹1.336 billion.
+- Department-wise Salary: IT has the highest displayed average salary at ₹85,000, while HR has the lowest at ₹45,000.
+- IT Support: The dashboard reports 500 IT tickets, with medium-priority tickets accounting for the largest category at 180.
+- Resource Utilization: Planned hours total 6,200, compared with 5,480 actual hours, a difference of 720 hours.
+- Client Satisfaction: Monthly satisfaction scores range from 3.8 to 4.6 out of 5, reaching their highest displayed value in November.
+
+These dashboard metrics provide a consolidated view of project status, financial performance, workforce distribution, support-ticket priorities, working hours, and client satisfaction.
