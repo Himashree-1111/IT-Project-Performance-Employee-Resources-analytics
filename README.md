@@ -72,4 +72,4 @@ BBA Graduate | Aspiring Data Analyst
 The dashboard provides a visual overview of IT project performance and employee resource utilization.
 
 ![IT Project Performance and Employee Resource Analytics Dashboard](Project%20dashboard.jpeg)
-it_project_analysis
+
