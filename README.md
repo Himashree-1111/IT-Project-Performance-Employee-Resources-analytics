@@ -67,3 +67,8 @@ Himashree
 BBA Graduate | Aspiring Data Analyst
 
 "GitHub Profile" (https://github.com/Himashree-1111)
+## Project Dashboard
+
+The dashboard provides a visual overview of IT project performance and employee resource utilization.
+
+![IT Project Performance and Employee Resource Analytics Dashboard](Project%20dashboard.jpeg)
